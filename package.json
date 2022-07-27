@@ -1,0 +1,45 @@
+{
+  "name": "react-native-flash-light",
+  "version": "1.0.0",
+  "description": "Manage Torch/Flashlight on/off/brightness level for react-native",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajay161292/react-native-flash-light.git"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "device",
+    "flashlight",    
+    "flashlight on",
+    "flashlight off", 
+    "flashlight brightness",
+    "flashlight brightness level",
+    "flashlight intensity",
+    "torch",
+    "torch brightness",
+    "torch brightness level",
+    "torch intensity"
+  ],
+  "author": "Ajay Parmar <parmarajay2@gmail.com> (https://github.com/ajay161292)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajay161292/react-native-flash-light/issues"
+  },
+  
+  "homepage": "https://github.com/ajay161292/react-native-flash-light",
+
+  "dependencies": {
+    
+  },
+  "devDependencies" : {
+    
+  }
+}
