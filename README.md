@@ -31,7 +31,7 @@ react-native link rn-flash-light
 #### iOS
 
 ```js
-import { RCTTorchClass } from "react-native-flash-light";
+import { RCTTorchClass } from "rn-flash-light";
 
 RCTTorchClass.flashOff(); // Turn ON
 RCTTorchClass.flashOn(); // Turn OFF
@@ -47,7 +47,7 @@ if (Platform.OS === "ios") {
 #### android
 
 ```js
-import { RCTTorchModule } from "react-native-flash-light";
+import { RCTTorchModule } from "rn-flash-light";
 
 RCTTorchModule.flashOff(); // Turn ON
 RCTTorchModule.flashOn(); // Turn OFF
